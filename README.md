@@ -1,2 +1,2 @@
-# DSACoding
+# DSA
 LeetCode
